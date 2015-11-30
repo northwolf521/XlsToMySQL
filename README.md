@@ -1,2 +1,2 @@
 # XlsToMySQL
-Excel表格数据导入MYSQ工具
+Excel表格数据导入MySQL数据库。
